@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaleadasApp</string>
+    <string-array name="llevar_array">
+        <item>SI</item>
+        <item>NO</item>
+    </string-array>
+</resources>
